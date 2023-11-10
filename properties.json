@@ -1,0 +1,82 @@
+[{
+      "price": "1,500",
+      "primaryURL":"./img/p1.jpg",
+      "id": "7001001",
+      "likes":"3",
+      "dislike":"3",
+      "stock":"White Shoes",
+      "agent":"Gucci LLC",
+      "type":"House"
+    },
+    {
+      "primaryURL": "./img/p2.jpg",
+      "id": "7001002",
+      "price": "2,200",
+      "likes":"3",
+      "dislike":"2",
+      "stock":"2,130",
+      "agent":"White Slides",
+      "type":"House"
+    },
+    {
+      "primaryURL": "./img/p3.jpg",
+      "id": "7001003",
+      "price": "1,800",
+      "likes":"3",
+      "dislike":"2",
+      "stock":"2,130",
+      "agent":"Brown Slides",
+      "type":"House"
+    },
+    {
+      "primaryURL": "./img/p4.jpg",
+      "id": "7001004",
+      "price": "2,500",
+      "likes":"3",
+      "dislike":"2",
+      "stock":"White Bee Slides",
+      "agent":"Gucci LLC",
+      "type":"House"
+    },
+    {
+      "primaryURL": "./img/p5.jpg",
+      "id": "7001005",
+      "price": "1,900",
+      "likes":"3",
+      "dislike":"2",
+      "stock":"Sneakers",
+      "agent":"Gucci LLC",
+      "type":"House"
+    },
+    {
+      "primaryURL": "./img/p6.jpg",
+      "id": "7001006",
+      "price": "2,300",
+      "likes":"3",
+      "dislike":"2",
+      "stock":"Black loafers",
+      "agent":"Gucci LLC",
+      "type":"House"
+    },
+    {
+      "primaryURL": "./img/p7.jpg",
+      "id": "7001007",
+      "price": "2,200",
+      "likes":"3",
+      "dislike":"2",
+      "stock":"Green Heels",
+      "agent":"Gucci LLC",
+      "type":"House"
+    },
+    {
+      "primaryURL": "./img/p8.jpg",
+      "id": "7001008",
+      "price": "2,200",
+      "likes":"3",
+      "dislike":"2",
+      "stock":"White Sandals",
+      "agent":"Gucci LLC",
+      "type":"House"
+    }
+  ]
+
